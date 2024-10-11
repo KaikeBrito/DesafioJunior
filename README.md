@@ -8,6 +8,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
 ## Arquitetura e Estrutura 👨‍💻:
@@ -74,6 +75,7 @@ DB_PASSWORD=
 </p>
 
 ## Comandos para Configuração e Criação das Tabelas 📑:
+
 <p>
 # 3. Criar o arquivo de migração para as tabelas no banco de dados
 php artisan make:migration create_nome_da_tabela_table<br><br>
@@ -81,6 +83,7 @@ php artisan make:migration create_nome_da_tabela_table<br><br>
 php artisan migrate</p>
 
 ## Comandos para Gerenciar Models, Controllers e Seeds 🎰:
+
 <p>
 # 7. Criar um novo model e migration
 php artisan make:model NomeDoModel -m<br><br>
@@ -93,6 +96,7 @@ php artisan db:seed
 </p>
 
 ## impeza e Manutenção 🧹:
+
 <p>
 # 11. Limpar o cache da aplicação
 php artisan cache:clear<br><br>
@@ -105,17 +109,20 @@ php artisan view:clear
 
 </p>
 
-## Executando o Projeto : 
+## Executando o Projeto :
+
 <p># 15. Executar o servidor de desenvolvimento Laravel
 php artisan serve
 </p>
 
 ## Observações e Melhoras Futuras 👀:
+
 <p>1. Conferir o Banco de dados no protocolo : http://localhost/phpmyadmin/<br><br>
 2. Com um pouco de mais tempo poderia implementar as imagens para aparecer nas models categorias e produtos, cada imagem se adeque com o seu tipo de models e aprimore os controllers, fazendo o final das funcionalidades para que fique completo o sistema.
 </p>
 
 ## Conclusão:
+
 <p>
 Este sistema oferece uma solução completa para o gerenciamento de produtos, categorias e imagens, utilizando Laravel e MySQL para proporcionar uma experiência segura, eficiente e escalável. A implementação de autenticação com token e a estruturação clara dos módulos de CRUD tornam o sistema uma ferramenta poderosa para usuários que buscam um controle centralizado de seus dados.
 </p>
