@@ -110,12 +110,12 @@ php artisan view:clear
 php artisan serve
 </p>
 
-## Observações 👀:
+## Observações e Melhoras Futuras 👀:
 <p>1. Conferir o Banco de dados no protocolo : http://localhost/phpmyadmin/<br><br>
+2. Com um pouco de mais tempo poderia implementar as imagens para aparecer nas models categorias e produtos, cada imagem se adeque com o seu tipo de models e aprimore os controllers, fazendo o final das funcionalidades para que fique completo o sistema.
 </p>
 
 ## Conclusão:
 <p>
 Este sistema oferece uma solução completa para o gerenciamento de produtos, categorias e imagens, utilizando Laravel e MySQL para proporcionar uma experiência segura, eficiente e escalável. A implementação de autenticação com token e a estruturação clara dos módulos de CRUD tornam o sistema uma ferramenta poderosa para usuários que buscam um controle centralizado de seus dados.
 </p>
-
