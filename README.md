@@ -95,7 +95,7 @@ php artisan make:seeder NomeDaSeeder<br><br>
 php artisan db:seed
 </p>
 
-## impeza e Manutenção 🧹:
+## Limpeza e Manutenção 🧹:
 
 <p>
 # 11. Limpar o cache da aplicação
