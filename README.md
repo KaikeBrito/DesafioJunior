@@ -34,7 +34,7 @@ Imagens: As imagens dos produtos e das categorias podem ser carregadas e gerenci
 
 #### observação: o aparecimento dessas imagens nas entidades categorias e produtos era necessário, mas de acordo com o curto periodo de tempo e um atraso que tive por causa de um erro, acabei não completando essa etapa.
 
-## Fluxo de Funcionamento do Sistema
+## Fluxo de Funcionamento do Sistema 🛣️:
 
 <p>
 1. O usuário acessa a tela de login ou registro.</br></br>
