@@ -117,8 +117,9 @@ php artisan serve
 
 ## Observações e Melhoras Futuras 👀:
 
-<p>1. Conferir o Banco de dados no protocolo : http://localhost/phpmyadmin/<br><br>
-2. Com um pouco de mais tempo poderia implementar as imagens para aparecer nas models categorias e produtos, cada imagem se adeque com o seu tipo de models e aprimore os controllers, fazendo o final das funcionalidades para que fique completo o sistema.
+<p>
+1. Conferir o Banco de dados no protocolo : http://localhost/phpmyadmin/<br><br>
+2. Com um pouco mais de tempo poderia implementar as imagens para aparecer nas models categorias e produtos, com cada imagem se adequequando ao seu tipo de models, fazendo com que as funcionalidades fiquem completas no sistema.
 </p>
 
 ## Conclusão:
